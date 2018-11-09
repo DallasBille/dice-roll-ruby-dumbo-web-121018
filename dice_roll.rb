@@ -5,7 +5,7 @@
 #def roll
 #1+rand(6)
 #end
-roll
+#roll
 
 def roll
 die=[1,2,3,4,5,6]
