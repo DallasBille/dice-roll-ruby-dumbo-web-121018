@@ -8,4 +8,7 @@
 roll
 
 def roll
-  array=[1,2,3,4,5,6]
+die=[1,2,3,4,5,6]
+die.sample
+end
+roll
