@@ -2,6 +2,13 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
+#def roll
+#1+rand(6)
+#end
+#roll
+
 def roll
-  # code goes here
+die=[1,2,3,4,5,6]
+die.sample
 end
+roll
